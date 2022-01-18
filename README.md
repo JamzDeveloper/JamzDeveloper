@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, good to see you here. 
-<!--<img src="https://raw.githubusercontent.com/francislagares/francislagares/master/assets/banner.gif" alt="Linkedin">
--->
+
+
 <p align="center" >
 <img alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
@@ -179,4 +179,3 @@
 <a>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jamzdeveloper&theme=dark&show_icons=true&line_height=27&" alt="francislagares" />
 </a>
-
