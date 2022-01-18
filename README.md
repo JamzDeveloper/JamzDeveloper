@@ -11,6 +11,8 @@
 <a href="https://github.com/JamzDeveloper">
   <img align="center" src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge" alt="Github" />
 </a>&nbsp;&nbsp;
+<a href="mailto:jamzdeveloper@gmail.com">
+<img align="center" src='https://img.shields.io/badge/-Gmail-white?logo=Gmail&logoColor=EA4335&style=for-the-badge' alt='gmail'/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/jamzdeveloper/?hl=es">
  <img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
 </a >&nbsp;&nbsp;
