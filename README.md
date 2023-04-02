@@ -117,6 +117,11 @@
   <a href='https://www.apollographql.com/docs/apollo-server/' target="__blank">
     <img src='https://camo.githubusercontent.com/d9952651b677177c9ec05802b314d09d9f34364fcdad7b939c2c999c745d31dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41706f6c6c6f4772617068514c2d3331314338373f7374796c653d666f722d7468652d6261646765266c6f676f3d61706f6c6c6f2d6772617068716c'/>
   </a>
+   &nbsp;
+  <a href='https://jwt.io/' target="__blank">
+    <img src='https://camo.githubusercontent.com/4590c0af4aeb1b75233885f86e80c1da8cb2afd401173a40e41370f5cad5db20/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a57542d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d4a534f4e253230776562253230746f6b656e73'/>
+  </a>
+  
 </p>
 <h4>Mobile</h4>
 <a href='https://flutter.dev/multi-platform/mobile' target="__blank">
