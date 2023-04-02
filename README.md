@@ -74,6 +74,10 @@
   <a href='https://tailwindcss.com/' target="__blank">
     <img src='https://img.shields.io/badge/tailwind css-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge' />
   </a>
+  &hbsp;
+  <a href='https://graphql.org/' target="__blank">
+    <img src='https://camo.githubusercontent.com/9ad071f3788625b60549260fb99aeb8516ce3ae6ed2506e88663a2b6375c7d34/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068514c2d4531303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6772617068716c266c6f676f436f6c6f723d7768697465'/>
+  <a/>
 </p>
 
 <h4>Backend</h4>
@@ -94,7 +98,7 @@
   <img src='https://img.shields.io/badge/-Mysql-4479A1?logo=Mysql&logoColor=white&style=for-the-badge'>
   </a>
   &nbsp;
-  <a href='https://www.postgresql.org/'>
+  <a href='https://www.postgresql.org/' target="__blank">
     <img src='https://camo.githubusercontent.com/29e7fc6c62f61f432d3852fbfa4190ff07f397ca3bde27a8196bcd5beae3ff77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465'/>
   </a>
   &nbsp;
@@ -114,6 +118,12 @@
 <a href='https://flutter.dev/multi-platform/mobile' target="__blank">
 <img src='https://img.shields.io/badge/-Flutter-61DAFB?logo=flutter&logoColor=blue&style=for-the-badge'>
 </a>
+
+  &nbsp;
+  <a href='https://www.postgresql.org/' target="__blank">
+    <img src='https://camo.githubusercontent.com/d9952651b677177c9ec05802b314d09d9f34364fcdad7b939c2c999c745d31dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41706f6c6c6f4772617068514c2d3331314338373f7374796c653d666f722d7468652d6261646765266c6f676f3d61706f6c6c6f2d6772617068716c'/>
+  </a>
+  
 <!--
 <h4>DevOps</h4>
 <p>
