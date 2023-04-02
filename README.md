@@ -82,6 +82,10 @@
     <img src="https://img.shields.io/badge/node.js-339933?logo=node.js&logoWidth=30&labelColor=black&style=for-the-badge" />
   </a>
   &nbsp;
+  <a href='https://nestjs.com/' target="__blank"> 
+    <img src="https://camo.githubusercontent.com/8855980a487f9e31426fbfc2cbbfdda5aa3b7f1d390e262e652e639e911b3d87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6573746a732d2532334530323334452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465"/>
+  </a>
+  &nbsp;
   <a href='https://www.mongodb.com/' target="__blank">
     <img src='https://img.shields.io/badge/mongo db-47A248?logo=mongodb&logoColor=white&style=for-the-badge' />
   </a>
