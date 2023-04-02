@@ -74,7 +74,7 @@
   <a href='https://tailwindcss.com/' target="__blank">
     <img src='https://img.shields.io/badge/tailwind css-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge' />
   </a>
-  &hbsp;
+   &nbsp;
   <a href='https://graphql.org/' target="__blank">
     <img src='https://camo.githubusercontent.com/9ad071f3788625b60549260fb99aeb8516ce3ae6ed2506e88663a2b6375c7d34/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068514c2d4531303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6772617068716c266c6f676f436f6c6f723d7768697465'/>
   <a/>
@@ -123,7 +123,10 @@
   <a href='https://www.postgresql.org/' target="__blank">
     <img src='https://camo.githubusercontent.com/d9952651b677177c9ec05802b314d09d9f34364fcdad7b939c2c999c745d31dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41706f6c6c6f4772617068514c2d3331314338373f7374796c653d666f722d7468652d6261646765266c6f676f3d61706f6c6c6f2d6772617068716c'/>
   </a>
-  
+  &nbsp;
+  <a href='https://graphql.org/' target="__blank">
+    <img src='https://camo.githubusercontent.com/9ad071f3788625b60549260fb99aeb8516ce3ae6ed2506e88663a2b6375c7d34/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068514c2d4531303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6772617068716c266c6f676f436f6c6f723d7768697465'/>
+  <a/>
 <!--
 <h4>DevOps</h4>
 <p>
