@@ -126,23 +126,24 @@
   <a href='https://graphql.org/' target="__blank">
     <img src='https://camo.githubusercontent.com/9ad071f3788625b60549260fb99aeb8516ce3ae6ed2506e88663a2b6375c7d34/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068514c2d4531303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6772617068716c266c6f676f436f6c6f723d7768697465'/>
   <a/>
-<!--
+
 <h4>DevOps</h4>
 <p>
   <a href='https://www.docker.com/'>
     <img src='https://img.shields.io/badge/docker-2496ED?logo=docker&style=for-the-badge&logoColor=white' />
   </a>
   &nbsp; 
-  <a href='https://kubernetes.io/'>
+<!--  <a href='https://kubernetes.io/'>
     <img src='https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&style=for-the-badge&logoColor=white' />
   </a>
   &nbsp;
   <a href='https://aws.amazon.com/'>
     <img src="https://img.shields.io/badge/AMAZON AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white" />
   </a>
-  &nbsp; 
+  &nbsp;
+ -->
 </p>
--->
+
 <h4>Testing Tools</h4>
 <p>
   <a href='https://jestjs.io/'>
