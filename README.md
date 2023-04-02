@@ -94,6 +94,10 @@
   <img src='https://img.shields.io/badge/-Mysql-4479A1?logo=Mysql&logoColor=white&style=for-the-badge'>
   </a>
   &nbsp;
+  <a href='https://www.postgresql.org/'>
+    <img src='https://camo.githubusercontent.com/29e7fc6c62f61f432d3852fbfa4190ff07f397ca3bde27a8196bcd5beae3ff77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465'/>
+  </a>
+  &nbsp;
   <a href='https://www.microsoft.com/es-es/sql-server/' target="__blank">
   <img src='https://img.shields.io/badge/-Sql Server-yellow?logo=Microsoft%20SQL%20Server&logoColor=CC2927&style=for-the-badge'>
   </a>
