@@ -200,8 +200,8 @@
    </a>
 </p>
 
-<h3 align="center">GITHUB STATS<hr/></h3>
+# <h3 align="center">GITHUB STATS<hr/></h3>
 
-<a>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jamzdeveloper&theme=dark&show_icons=true&line_height=27&" alt="francislagares" />
-</a>
+# <a>
+# <img align="left" src="https://github-readme-stats.vercel.app/api?username=jamzdeveloper&theme=dark&show_icons=true&line_height=27&" alt="francislagares" />
+# </a>
