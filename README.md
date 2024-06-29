@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jos%C3%A9-montenegro-b32321203/"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Jose Montenegro LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jose-montenegro-jamzdeveloper/"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Jose Montenegro LinkedIn" /></a>&nbsp;&nbsp;
 <a href="https://github.com/JamzDeveloper">
   <img align="center" src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge" alt="Github" />
 </a>&nbsp;&nbsp;
