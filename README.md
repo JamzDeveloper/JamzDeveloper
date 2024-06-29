@@ -76,7 +76,7 @@
   </a>
    &nbsp;
   <a href='https://graphql.org/' target="__blank">
-    <img src='https://camo.githubusercontent.com/2a573647c2b7a1ade3e2442d351af0e73d9a7ae08dddaa8abd12f18f5ce8fe3a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6772617068716c2f6772617068716c2d69636f6e2e737667'/>
+    <img src='https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white'/>
   <a/>
 </p>
 
