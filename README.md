@@ -87,7 +87,7 @@
   </a>
   &nbsp;
   <a href='https://nestjs.com/' target="__blank"> 
-    <img src="https://camo.githubusercontent.com/8855980a487f9e31426fbfc2cbbfdda5aa3b7f1d390e262e652e639e911b3d87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6573746a732d2532334530323334452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465"/>
+    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
   </a>
   &nbsp;
   <a href='https://www.mongodb.com/' target="__blank">
@@ -99,7 +99,7 @@
   </a>
   &nbsp;
   <a href='https://www.postgresql.org/' target="__blank">
-    <img src='https://camo.githubusercontent.com/29e7fc6c62f61f432d3852fbfa4190ff07f397ca3bde27a8196bcd5beae3ff77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465'/>
+    <img src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white'/>
   </a>
   &nbsp;
   <a href='https://www.microsoft.com/es-es/sql-server/' target="__blank">
